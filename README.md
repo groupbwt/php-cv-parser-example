@@ -1,5 +1,5 @@
-В даном репозитории представлен пример кода на Laravel для парсинга сущностей из резюме при помощи сторонних сервисов.
+In this repository you can find an example Laravel code for scraping entities from a resume using third-party services.
 
-В этом примере для парсинга сущностей используеться сервис Sovren.
+In this example, the Sovren service is used for scraping entities.
 
-Так же с легкостью можно интегрировать любой другой сервис.
+You can also easily integrate any other service.
